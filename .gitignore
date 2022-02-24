@@ -1,0 +1,10 @@
+poker_ai.code-workspace
+**/.DS_Store
+.vscode/**
+makefile
+poker_ai
+extra/**
+bundles/**
+build/**
+assets/fonts/**
+assets/textures/**
